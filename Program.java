@@ -4,3 +4,5 @@ public class Program {
         System.out.println("Muskan is the best <3");
     }
 }
+
+// method for  custom message
